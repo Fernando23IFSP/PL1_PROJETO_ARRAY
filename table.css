@@ -1,0 +1,18 @@
+table
+{
+ font-size: 20px;
+ text-align: center;
+ font-family: Arial;
+ background-color: white;
+}
+.img
+{
+    width: 70px;
+    height: 70px;
+}
+.fundo
+{
+    background-image: url(if-logo.png);
+    background-repeat: no-repeat;
+    background-color:green;
+}
